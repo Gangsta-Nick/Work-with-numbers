@@ -1,5 +1,3 @@
-package num;
-
 import java.util.*;
 import java.util.stream.*;
 
